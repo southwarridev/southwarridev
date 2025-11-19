@@ -1,74 +1,92 @@
+<!-- 
+  Hi there! 👋 This README reflects a work-in-progress journey — 
+  not a showcase of mastery, but a log of steady learning and building.
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33F7FF&center=true&vCenter=true&width=435&lines=Building+Earth+2.0+from+South+Warri;Full-stack+Dev+%7C+C+Systems+%7C+Quantum+Code+%7C+AI;Protector+by+Night%2C+Builder+by+Day" alt="Animated Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7FF&center=true&vCenter=true&width=435&lines=Building+thoughtfully+from+South+Warri;Full-stack+%7C+Systems+%7C+Blockchain+%7C+AI;Learning+in+public%2C+shipping+with+care" alt="Gentle animated header" />
 </p>
 
 ---
 
-# ⚙️ southwarridev
+## ⚙️ Hey, I’m Shedrack Erhabor  
+A developer from South Warri, Nigeria — learning in public, building thoughtfully, and staying grounded.
 
-### The Tech Guy from South Warri  
-_Builder by day, **protector** by night, future architect 24/7._
-
----
-
-## 🧠 What I Do  
-I build clean, scalable systems using modern tech — and sometimes ancient magic.
-
-- ⚙️ **Full Stack Dev** — TypeScript • Node.js • React Native • Supabase • PostgreSQL  
-- 🐍 **Python Wizardry** — AI, scripting, scraping, and automation  
-- 🧬 **Quantum Programmer** — Tapping into Qubits & multi-state logic  
-- 🧱 **C Language Architect** — Working on my own OS from scratch (no fluff, just fire)  
-- 🛡️ **Digital Defender** — Ethical hacking, encryption, security-by-design
+> “From South Warri. Learning, building, and trying to leave things better than I found them.”
 
 ---
 
-## 🧘🏾‍♂️ Philosophy  
-I don’t just build apps — I build **systems for the future**.  
-From **The Eternal Now** to **Internet Nashedy**, my code is rooted in ideas that stretch beyond time, beyond hardware.
+## 🛠️ What I Work On  
 
-🪐 *"If you can imagine it, you can architect it."*
-  
+I build practical, maintainable systems—whether for mobile, backend, or low-level environments—with growing interest in decentralized tech and secure architectures.
 
----
+- **📱 Cross-Platform Mobile**: Flutter (with clean architecture, Riverpod, Firebase)  
+- **🌐 Advanced Backend**: Scalable monoliths, event-driven systems, and resilient APIs — not just microservices  
+- **🧱 Systems Programming**: C, C++, and Rust (exploring memory safety, concurrency, and performance)  
+- **⛓️ Blockchain**: Writing and testing smart contracts in Solidity (Ethereum & EVM-compatible chains)  
+- **🐍 Scripting & AI**: Python for automation, data pipelines, and lightweight ML/AI experiments  
+- **🛡️ Security Mindset**: Privacy-first design, encryption, and defensive coding practices  
 
-## 🧰 Tech Stack
-
-| Area      | Tools                                                    |
-|-----------|-----------------------------------------------------------|
-| Frontend  | TypeScript, React Native, Expo, TailwindCSS              |
-| Backend   | Node.js, Express.js, PostgreSQL, Supabase                |
-| Systems   | C, Linux, Assembly (WIP), Bash                           |
-| Scripting | Python (Flask, FastAPI, automation, AI tools)            |
-| Quantum   | Qality, Cirq, Qiskit (experimental, research in progress)|
+> I’m still learning deeply in each area—no claims of expertise, just consistent effort.
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 My Approach  
+
+I believe software should solve real problems—not just look impressive on a resume.  
+I focus on:
+- **Clarity over cleverness**
+- **Sustainability over speed**
+- **Understanding over trends**
+
+> “Build something useful. Learn from it. Repeat.”
+
+---
+
+## 🧰 Tools & Languages I Use  
+
+| Area              | Stack                                                                 |
+|-------------------|-----------------------------------------------------------------------|
+| **Mobile**        | Flutter, Dart, Firebase, Riverpod                                     |
+| **Frontend**      | TypeScript, React Native, Tailwind CSS                                |
+| **Backend**       | Node.js, Python (FastAPI/Flask), PostgreSQL, Redis, RabbitMQ, Supabase |
+| **Systems**       | C, C++, Rust, Linux, Bash                                             |
+| **Blockchain**    | Solidity, Hardhat, Foundry, Ethers.js                                 |
+| **Scripting/AI**  | Python (Pandas, LangChain, LLM APIs, automation)                      |
+| **DevOps/Infra**  | Docker, GitHub Actions, basic cloud deployment                        |
+| **Quantum (Fun)** | Cirq, Qiskit (experimental — learning the basics)                     |
+
+---
+
+## 📈 Learning in Public  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=southwarri-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=southwarri-dev&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=southwarri-dev&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=southwarri-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=southwarri-dev&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=southwarri-dev&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
----
-
-## 🧩 Fun Facts
-
-- 🥋 Trains calisthenics & boxing — code hard, punch harder  
-- 🧘🏾 Deep into Stoicism & African metaphysics  
-- 🎥 Acts like a tech NPC IRL (you can’t glitch me)  
-- 🎯 Dream: Help humanity become a **Type 1 Civilization**  
-- 🧠 Mindset: “Code it. Ship it. Let it echo in eternity.”
+*(These stats reflect daily practice—not mastery. Every line is a step forward.)*
 
 ---
 
-## 🌍 Connect With Me
+## 🌿 Beyond Code  
 
-- 📷 Instagram: [@techguyfromsouthwarri](https://www.instagram.com/techguyfromsouthwarri/)
-- 🎵 TikTok: [@nashedy1257](https://www.tiktok.com/@nashedy1257)
+- 🥋 Train calisthenics & boxing — discipline carries over to coding  
+- 📚 Studying Stoicism and African philosophical traditions  
+- 🎯 Quiet hope: Contribute to tools that empower communities  
+- 💬 Daily mantra: *“Clarity. Care. Consistency.”*
 
 ---
 
-> “Born in South Warri. Building for Earth 2.0.”  
-> — *SouthWarri-Dev*
+## 📬 Let’s Connect  
+
+- 📷 [Instagram](https://www.instagram.com/techguyfromsouthwarri/)  
+- 🎵 [TikTok](https://www.tiktok.com/@nashedy1257)  
+
+*(Open to kind, thoughtful conversations—especially from fellow builders and learners!)*
+
+---
+
+> **Note**: This profile is a living journal—imperfect, evolving, and honest.  
+> Thanks for stopping by. 🙏
